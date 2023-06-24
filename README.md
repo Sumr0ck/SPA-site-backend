@@ -12,4 +12,6 @@
 
 проводим миграции бд `./manage.py migrate`
 
+загружаем демонстрационные данные `./manage.py loaddata fixtures/db.json`
+
 запускаем сервер `./manage.py runserver`
